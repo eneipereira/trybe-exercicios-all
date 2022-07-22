@@ -1,0 +1,15 @@
+{
+  "name": "dia-03-javaScript-primeiros-passos-em-jest",
+  "version": "1.0.0",
+  "description": "exercicios dia 03 bloco 07",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}

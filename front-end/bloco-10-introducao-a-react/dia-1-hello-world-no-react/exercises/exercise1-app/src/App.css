@@ -1,0 +1,11 @@
+.list {
+  list-style-type: circle;
+  font-weight: 500;
+}
+
+.item {
+  margin-bottom: 10px;
+  padding: 0 10px;
+  background-color: antiquewhite;
+  width: max-content;
+}
